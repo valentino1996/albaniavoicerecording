@@ -121,7 +121,7 @@ $(document).ready(function() {
 			`Femer`,
 			`<div class="fields">
       <h2 align="middle">Rreth Nesh</h2>
-        <h3 align="middle">Albania Voice Recoring eshte ketu per tju ndihmuar me te gjithe sherbimet e zerave pavaresisht nese jeni biznes i madh apo i vogel.</h3>
+        <h3 align="middle">Albania Voice Recording eshte ketu per tju ndihmuar me te gjithe sherbimet e zerave pavaresisht nese jeni biznes i madh apo i vogel.</h3>
         <h3 align="middle">Ekipi yne profesional eshte i gatshem tju ndihmoje me cdo lloj zeri dhe te keni mundesine per ta bere ate sic duhet.</h3>
         <h3 align="middle">Hidhni nje veshtrim ne te gjitha sherbimet qe ofrojme, nga mesazhet e marketingut deri ne cdo lloj rrefimi, ne jemi ketu per ju.</h3>
 <div class="details">
